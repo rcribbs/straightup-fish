@@ -1,5 +1,5 @@
-# name: taktoa
-# by taktoa (Remy Goldschmidt) <taktoa@gmail.com>
+# name: straightup
+# by rcribbs
 # License: public domain
 
 function _git_branch_name
